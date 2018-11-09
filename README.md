@@ -1,14 +1,24 @@
 # LLSGI
 ## Assignatura de Lenguaje de Marcas y Sistemas de Gestión de la Información
 
-Fitxer inclosos en la tasca 1:
 
-1. tasca1_rtf.rtf
-2. tasca1_html.html
-3. tasca1_xml.xml
+1. Amb el bloc de notes he crea documents RTF, XML i HTML.
 
-**Repositori** de fitxers de *marques*.
+2. He accedit amb el meu usuari i password al Github i he après Markdown.
+
+3. He pujat al meu repositori de GitHub els fitxers creats al **PAS 1**:
+* tasca1_rtf.rtf
+* tasca1_html.html
+* tasca1_xml.xml
+
+4. He copiat la URL del fitxer HTHL [tasca1_html.html](https://github.com/XiscoCantallops/LLSGI/blob/master/tasca1_html.html)
+i la he copiada a [https://raw.githack.com/](https://raw.githack.com/). Y el  resultat ha sigut el sgüent:
+[El meu HTML a raw.githack.com](https://raw.githack.com/XiscoCantallops/LLSGI/master/tasca1_html.html)
+
+5. He editat el README.md explicant el que has fet.
+
+6. *He envia l'enllaç del teu repositori*.
 
 ![Logo Github](/GitHub-Mark-64px.png)
 
-[El meu HTML a raw.githack.com](https://raw.githack.com/XiscoCantallops/LLSGI/master/tasca1_html.html)
+
