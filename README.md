@@ -17,7 +17,7 @@ i l'he aferrat a [https://raw.githack.com/](https://raw.githack.com/). Y el  res
 
 **5.** *He editat el README.md explicant el que has fet.*
 
-**6.** [He envia l'enllaç del teu repositori] (https://github.com/XiscoCantallops/LLSGI)
+**6.** [He envia l'enllaç del teu repositori](https://github.com/XiscoCantallops/LLSGI)
 
 ![Logo Github](/GitHub-Mark-64px.png)
 
