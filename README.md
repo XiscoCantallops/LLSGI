@@ -2,9 +2,9 @@
 ## Assignatura de Lenguaje de Marcas y Sistemas de Gestión de la Información
 
 
-**1.** Amb el bloc de notes he crea documents **RTF, XML i HTML** tla com ho damanava la tasca.
+**1.** Amb el bloc de notes he crea documents **RTF, XML i HTML** tal com ho damanava la tasca.
 
-**2.** He accedit amb el meu usuari i password al Github i he après Markdown.
+**2.** He accedit amb el meu usuari i password al Github, ja que diposava d'un compte, i he après Markdown.
 
 **3.** He pujat al meu repositori de GitHub els fitxers creats al **PAS 1**:
 * tasca1_rtf.rtf
