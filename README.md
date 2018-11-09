@@ -2,7 +2,7 @@
 ## Assignatura de Lenguaje de Marcas y Sistemas de Gestión de la Información
 
 
-**1.** Amb el bloc de notes he crea documents **RTF, XML i HTML**.
+**1.** Amb el bloc de notes he crea documents **RTF, XML i HTML** tla com ho damanava la tasca.
 
 **2.** He accedit amb el meu usuari i password al Github i he après Markdown.
 
@@ -12,12 +12,12 @@
 * tasca1_xml.xml
 
 **4.** He copiat la URL del fitxer HTHL [tasca1_html.html](https://github.com/XiscoCantallops/LLSGI/blob/master/tasca1_html.html)
-i la he copiada a [https://raw.githack.com/](https://raw.githack.com/). Y el  resultat ha sigut el sgüent:
+i l'he aferrat a [https://raw.githack.com/](https://raw.githack.com/). Y el  resultat ha sigut el següent:
 [El meu HTML a raw.githack.com](https://raw.githack.com/XiscoCantallops/LLSGI/master/tasca1_html.html)
 
 **5.** He editat el README.md explicant el que has fet.
 
-**6.** *He envia l'enllaç del teu repositori*.
+**6.** [*He envia l'enllaç del teu repositori*.] (https://github.com/XiscoCantallops/LLSGI)
 
 ![Logo Github](/GitHub-Mark-64px.png)
 
