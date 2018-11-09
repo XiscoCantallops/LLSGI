@@ -1,5 +1,5 @@
 # LLSGI
-Assignatura de Lenguaje de Marcas y Sistemas de Gestión de la Información
+## Assignatura de Lenguaje de Marcas y Sistemas de Gestión de la Información
 
 Fitxer inclosos en la tasca 1:
 
