@@ -9,5 +9,6 @@ Fitxer inclosos en la tasca 1:
 
 **Repositori** de fitxers de *marques*.
 
-![GitHub-Mark-64px.png](https://github.com/logos)
-HTML a raw.githack.com: ![HTML a raw.githack.com](https://raw.githack.com/XiscoCantallops/LLSGI/master/tasca1_html.html)
+![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
+
+[El meu HTML a raw.githack.com](https://raw.githack.com/XiscoCantallops/LLSGI/master/tasca1_html.html)
